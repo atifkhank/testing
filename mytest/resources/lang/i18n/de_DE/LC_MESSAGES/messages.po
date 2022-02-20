@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2021-07-15 12:12+0530\n"
+"PO-Revision-Date: 2021-07-15 12:15+0530\n"
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: Console\n"
+"X-Poedit-SearchPath-3: ../storage/framework/messages\n"
+
+#: ../storage/framework/messages/11aec22f4701d10fb475377e81e7e7bc68a38a09.php.php:6
+#: ../storage/framework/messages/11aec22f4701d10fb475377e81e7e7bc68a38a09.php.php:81
+#: ../storage/framework/messages/164046c9e0c405bd242895b4098db549f368415a.php.php:6
+msgid "Reset Password"
+msgstr "Passwort zurücksetzen"
+
+#: ../storage/framework/messages/11aec22f4701d10fb475377e81e7e7bc68a38a09.php.php:15
+#: ../storage/framework/messages/164046c9e0c405bd242895b4098db549f368415a.php.php:20
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:41
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:13
+msgid "E-Mail Address"
+msgstr "E-Mail-Addresse"
+
+#: ../storage/framework/messages/11aec22f4701d10fb475377e81e7e7bc68a38a09.php.php:43
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:69
+#: ../storage/framework/messages/a74b3a9877edb6be64522309bac30196a8f6d023.php.php:16
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:41
+msgid "Password"
+msgstr "Passwort"
+
+#: ../storage/framework/messages/11aec22f4701d10fb475377e81e7e7bc68a38a09.php.php:71
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:97
+#: ../storage/framework/messages/a74b3a9877edb6be64522309bac30196a8f6d023.php.php:6
+#: ../storage/framework/messages/a74b3a9877edb6be64522309bac30196a8f6d023.php.php:46
+msgid "Confirm Password"
+msgstr "Kennwort bestätigen"
+
+#: ../storage/framework/messages/1215e10243d644ed37013ba34a173465ada8cc8b.php.php:30
+msgid "Toggle navigation"
+msgstr "Navigation umschalten"
+
+#: ../storage/framework/messages/1215e10243d644ed37013ba34a173465ada8cc8b.php.php:45
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:6
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:84
+msgid "Login"
+msgstr "Anmeldung"
+
+#: ../storage/framework/messages/1215e10243d644ed37013ba34a173465ada8cc8b.php.php:49
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:6
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:107
+msgid "Register"
+msgstr "Registrieren"
+
+#: ../storage/framework/messages/1215e10243d644ed37013ba34a173465ada8cc8b.php.php:63
+msgid "Logout"
+msgstr "Ausloggen"
+
+#: ../storage/framework/messages/164046c9e0c405bd242895b4098db549f368415a.php.php:50
+msgid "Send Password Reset Link"
+msgstr "Link zum Zurücksetzen des Passworts senden"
+
+#: ../storage/framework/messages/1caebe735190081603d1318f39a8c553022185c2.php.php:1
+#: ../storage/framework/messages/1caebe735190081603d1318f39a8c553022185c2.php.php:3
+msgid "Unauthorized"
+msgstr "Nicht autorisiert"
+
+#: ../storage/framework/messages/2828f0be473bf1df35234f1230b7d5a4e39663e2.php.php:1
+#: ../storage/framework/messages/2828f0be473bf1df35234f1230b7d5a4e39663e2.php.php:3
+msgid "Too Many Requests"
+msgstr "Zu viele Anfragen"
+
+#: ../storage/framework/messages/4800df67b3c981ea69b61ccde71cde7c4a99a946.php.php:13
+msgid "Name"
+msgstr "Nfjaskljfjs"
+
+#: ../storage/framework/messages/54110c1335a76070a48b05d085a5f4f8049fee96.php.php:7
+msgid "Dashboard"
+msgstr "Instrumententafel"
+
+#: ../storage/framework/messages/54110c1335a76070a48b05d085a5f4f8049fee96.php.php:17
+msgid "You are logged in!"
+msgstr "Du bist eingeloggt!"
+
+#: ../storage/framework/messages/7d1b58718bbdb3b68e6092d29f72456af9b1c0c5.php.php:1
+#: ../storage/framework/messages/7d1b58718bbdb3b68e6092d29f72456af9b1c0c5.php.php:3
+msgid "Forbidden"
+msgstr "verboten"
+
+#: ../storage/framework/messages/9df1208fec612430da907222f85bb91b5c4fd0cd.php.php:1
+#: ../storage/framework/messages/9df1208fec612430da907222f85bb91b5c4fd0cd.php.php:3
+msgid "Not Found"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:6
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:11
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:50
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:58
+#: ../storage/framework/messages/f60ba482adddc555121d044ff6e02d3412685c46.php.php:6
+#: ../storage/framework/messages/f60ba482adddc555121d044ff6e02d3412685c46.php.php:11
+msgid "pagination.previous"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:18
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:23
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:93
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:99
+#: ../storage/framework/messages/f60ba482adddc555121d044ff6e02d3412685c46.php.php:19
+#: ../storage/framework/messages/f60ba482adddc555121d044ff6e02d3412685c46.php.php:24
+msgid "pagination.next"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:32
+msgid "Showing"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:35
+msgid "to"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:38
+msgid "of"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:41
+msgid "results"
+msgstr ""
+
+#: ../storage/framework/messages/a03ad25e488c43b3059ce3b483380afb6635bcce.php.php:82
+msgid "Go to page :page"
+msgstr ""
+
+#: ../storage/framework/messages/a74b3a9877edb6be64522309bac30196a8f6d023.php.php:9
+msgid "Please confirm your password before continuing."
+msgstr ""
+
+#: ../storage/framework/messages/a74b3a9877edb6be64522309bac30196a8f6d023.php.php:52
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:90
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: ../storage/framework/messages/b222a49cc06aadbfbf7a8ac0e6f3b8b1d99ff02d.php.php:74
+msgid "Remember Me"
+msgstr ""
+
+#: ../storage/framework/messages/d61784f45bc4ec50793bca1036990099fb93308d.php.php:1
+#: ../storage/framework/messages/d61784f45bc4ec50793bca1036990099fb93308d.php.php:3
+msgid "Service Unavailable"
+msgstr ""
+
+#: ../storage/framework/messages/d628e49c530a1bf09ab462c96a482e32c897ff1a.php.php:1
+#: ../storage/framework/messages/d628e49c530a1bf09ab462c96a482e32c897ff1a.php.php:3
+msgid "Server Error"
+msgstr ""
+
+#: ../storage/framework/messages/ec4f8c59a390872db8b6bca1166e0dbf6d7fc600.php.php:6
+msgid "Verify Your Email Address"
+msgstr ""
+
+#: ../storage/framework/messages/ec4f8c59a390872db8b6bca1166e0dbf6d7fc600.php.php:11
+msgid "A fresh verification link has been sent to your email address."
+msgstr ""
+
+#: ../storage/framework/messages/ec4f8c59a390872db8b6bca1166e0dbf6d7fc600.php.php:16
+msgid "Before proceeding, please check your email for a verification link."
+msgstr ""
+
+#: ../storage/framework/messages/ec4f8c59a390872db8b6bca1166e0dbf6d7fc600.php.php:18
+msgid "If you did not receive the email"
+msgstr ""
+
+#: ../storage/framework/messages/ec4f8c59a390872db8b6bca1166e0dbf6d7fc600.php.php:21
+msgid "click here to request another"
+msgstr ""
+
+#: ../storage/framework/messages/f5725796571ff646762ff4d5e66312eb180f7f76.php.php:1
+#: ../storage/framework/messages/f5725796571ff646762ff4d5e66312eb180f7f76.php.php:3
+msgid "Page Expired"
+msgstr ""
+
+#: ../storage/framework/messages/f799d109b31546ee182f7992763b065ebdda9566.php.php:464
+msgid "Oh no"
+msgstr ""
+
+#: ../storage/framework/messages/f799d109b31546ee182f7992763b065ebdda9566.php.php:475
+msgid "Go Home"
+msgstr ""
